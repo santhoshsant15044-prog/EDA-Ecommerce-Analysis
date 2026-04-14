@@ -1,2 +1,51 @@
-# EDA-Ecommerce-Analysis
-Exploratory Data Analysis on e-commerce data to uncover sales trends, customer behavior, and business insights using Python.
+# 📊 E-Commerce Data Analysis (EDA)
+
+## 📌 Overview
+
+This project performs Exploratory Data Analysis (EDA) on an e-commerce dataset to uncover meaningful insights related to sales performance, customer behavior, and revenue patterns.
+
+## 🎯 Objectives
+
+* Analyze sales trends over time
+* Understand customer purchasing behavior
+* Identify top-performing products and categories
+* Discover patterns and correlations in data
+
+## 🛠️ Tools & Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+## 📂 Project File
+
+* `EDA_Ecommerce.ipynb`
+
+## 📸 Key Visualizations
+
+(Add your screenshots here)
+
+Example:
+![Sales Trend](sales-trend.png)
+![Revenue Distribution](revenue.png)
+![Top Products](top-products.png)
+![Correlation Heatmap](heatmap.png)
+
+## 📈 Key Insights
+
+* Identified sales trends and seasonal variations
+* Found high revenue-generating product categories
+* Analyzed customer purchase patterns
+* Observed relationships between different variables
+
+## ▶️ How to Use
+
+1. Download or clone the repository
+2. Open the notebook in Jupyter Notebook / Jupyter Lab
+3. Run all cells to reproduce the analysis
+
+## 👤 Author
+
+Sant
