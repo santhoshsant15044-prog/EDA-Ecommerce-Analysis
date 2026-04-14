@@ -24,8 +24,6 @@ This project performs Exploratory Data Analysis (EDA) on an e-commerce dataset t
 * `EDA_Ecommerce.ipynb`
 
 ## 📸 Key Visualizations
-
-![Quantity](Quantity.png)
 ![Correlation](Correlation.png)
 ![Outliers](Outliers.png)
 ## 📈 Key Insights
