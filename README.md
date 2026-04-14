@@ -25,14 +25,9 @@ This project performs Exploratory Data Analysis (EDA) on an e-commerce dataset t
 
 ## 📸 Key Visualizations
 
-(Add your screenshots here)
-
-Example:
-![Sales Trend](sales-trend.png)
-![Revenue Distribution](revenue.png)
-![Top Products](top-products.png)
-![Correlation Heatmap](heatmap.png)
-
+![Quantity](Quantity.png)
+![Correlation](Correlation.png)
+![Outliers](Outliers.png)
 ## 📈 Key Insights
 
 * Identified sales trends and seasonal variations
